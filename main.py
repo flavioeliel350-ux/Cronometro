@@ -1,4 +1,6 @@
-
+"""
+Autor do modulo: João Manoel.
+"""
 import tkinter as tk
 import config as cfg
 from config import CORES, FONTES, gerar_fontes, carregar_prefs, salvar_prefs, aplicar_tema
